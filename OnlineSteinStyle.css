@@ -13,3 +13,9 @@ h1{
 #tall{
     height: 500px;
 }
+
+@media (max-width: 500px) {
+    h1{
+        font-size: 3rem;
+    }
+}
